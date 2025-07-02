@@ -34,7 +34,7 @@ CREATE TABLE IF NOT EXISTS bronze.crm_sales_details
 (
 	sls_ord_num VARCHAR(50),
 	sls_prd_key VARCHAR(50),
-	sls_cust_ıd INT,
+	sls_cust_id INT,
 	sls_order_date INT,
 	sls_ship_dt INT,
 	sls_due_dt INT,
